@@ -1,1 +1,1 @@
-first session on Git
+first session on Git 1
