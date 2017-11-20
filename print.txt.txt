@@ -1,2 +1,2 @@
-This is my second file by kousick
-Revising the commands
+This is my second file by kousick and Parul 
+Revising the commandsgit diff
